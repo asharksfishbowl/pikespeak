@@ -6,8 +6,9 @@
             Thank You!!!
         </div>
         <div class="card-body">
-          <video  width="720" height="440" controls preload="auto">
-            <source src="{{URL::asset('/vid/Backflow.mp4')}}" type="video/mp4">
+          <video width="420" controls>
+            <source src="./vid/Backflow.mp4" type="video/mp4">
+              Your browser does not support the video tag.
           </video>
         </div>
     </div>
