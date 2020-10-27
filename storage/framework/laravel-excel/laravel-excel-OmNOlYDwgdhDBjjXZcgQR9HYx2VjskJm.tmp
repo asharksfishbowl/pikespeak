@@ -1,0 +1,2 @@
+id,name,email,email_verified_at,password,type,remember_token,created_at,updated_at
+3,"nick marino",nickmarino284@gmail.com,"2020-10-27 04:13:24",$2y$10$wbm94A3xzaOmmk9UhJvZsOABYFhKBdA0ahaxnY8QK7RzIHSVNO/H6,user,NULL,"2020-10-27 04:13:24","2020-10-27 04:13:24"
